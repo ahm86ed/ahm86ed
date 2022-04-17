@@ -2,6 +2,9 @@
 - 👀 I’m interested in React, JavaScript, web development
 - 🌱 I’m currently learning Full stack Web Development.
 - 📫 You can reach me on ahm86ed@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ahmadcsd86/
+- StackOverflow: https://stackoverflow.com/users/18833364/ahmad
+
 
 <!---
 ahm86ed/ahm86ed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
