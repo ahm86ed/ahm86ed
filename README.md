@@ -4,6 +4,15 @@
 - 📫 You can reach me on ahm86ed@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ahmadcsd86/
 - StackOverflow: https://stackoverflow.com/users/18833364/ahmad
+- Websites achieved
+- https://05-tech.com/
+- https://mv-iq.com/
+- https://barq-baghdad.05-tech.com/barq-baghdad/
+- https://alzainaviation.05-tech.com/alzajil-wings/
+- https://alzainaviation.05-tech.com/alzainaviation/
+- https://speedwaveiq.05-tech.com/
+- https://bcam-iq.com/
+- https://hish-tech.com/
 
 
 <!---
