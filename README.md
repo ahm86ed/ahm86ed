@@ -14,6 +14,7 @@
 - https://alzainaviation.05-tech.com/alzainaviation/
 - https://speedwaveiq.05-tech.com/
 - https://bcam-iq.com/
+- https://smax.05-tech.com/
 - https://hish-tech.com/
 
 
